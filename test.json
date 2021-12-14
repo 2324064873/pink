@@ -1,0 +1,14 @@
+{
+  "dealerfullname": "浙江保信物业管理有限公司",
+  "expressaddress": "物业中心",
+  "default_ruleid": 10024,
+  "account_userid": 11000014,
+  "userbind_userid": "11000014|11155052",
+  "report_userid": "11000014|11155052",
+  "noticecheck_userid": "11000014|13526964|13526971|11022352",
+  "ordernotice_userlist": "11000014",
+  "userrepairs_userid": "11000014|11017449|11155052",
+  "userservice_userid": "11000014|11155052",
+  "billcheck_userid": "",
+  "shopuserbind_userid": "22263843|20831836"
+}
